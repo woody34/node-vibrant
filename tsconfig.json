@@ -1,9 +1,9 @@
 {
     "extends": "./tsconfig.base.json",
     "compilerOptions": {
-        "outDir": "dist",
+        "outDir": "lib",
         "declaration": true,
-        "declarationDir": "dist",
+        "declarationDir": "lib",
         "target": "ES6",
         "module": "commonjs"
     },
